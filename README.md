@@ -1,5 +1,4 @@
 # pratica_integradora_tecnologias_disruptivas-modulo10_pratica
-# pratica_integradora_tecnologias_disruptivas-modulo10_pratica
 
 # Descrição das Alterações
 # 1. Estilo do Modal
